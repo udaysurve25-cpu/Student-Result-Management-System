@@ -1,0 +1,48 @@
+# Node Modules
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+npm-debug.log*
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# VS Code Settings
+.vscode/
+
+# Temporary Files
+tmp/
+temp/
+
+# Package Lock Backup
+package-lock-backup.json
+
+# XAMPP Files
+xampp/
+
+# Mac Files
+.AppleDouble
+.LSOverride
+
+# Linux Files
+*~
+
+# Runtime Data
+pids
+*.pid
+*.seed
+
+# Optional Cache
+.cache/
+
+# Coverage Folder
+coverage/
+
+# Build Folder
+dist/
+build/
+backend/node_modules/
